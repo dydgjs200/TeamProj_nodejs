@@ -5,8 +5,6 @@ const cookieParser = require("cookie-parser");
 const axios = require("axios");
 const PORT = process.env.SERVERPORT;
 
-const swaggerRouter = require("./routes/swagger.router");
-
 const signupRouter = require("./routes/signup.router");
 const errorRouter = require("./routes/error.routes");
 const mypageRouter = require("./routes/mypage.routes");
@@ -34,12 +32,6 @@ app.set("views", "./views");
 app.use("/static", express.static(__dirname + "/static"));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-
-// swagger
-// http://localhost:8000/api-docs 로 접근 가능
-app.use("/api", swaggerRouter);
-const { swaggerUi, specs } = require("./swagger/swagger");
-app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(specs));
 
 const sessionConfig = getSessionConfig();
 app.use(expressSession(sessionConfig));
