@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 <br>
+
 - Frontend <br>
 <div>
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -39,4 +40,16 @@
  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
  <img src="https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&logo=.env&logoColor=white">
  <img src="https://img.shields.io/badge/jwt-4285F4?style=for-the-badge&logo=jwt&logoColor=white">
+ <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+</div>
+
+- Server <br>
+<div>
+ <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=ec2&logoColor=white">
+ <img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=s3&logoColor=white">
+</div>
+
+- DB <br>
+<div>
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
