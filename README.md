@@ -56,3 +56,12 @@
 
 # 4. 페이지 구성
 <br>
+
+![image](https://github.com/dydgjs200/TeamProj_nodejs/assets/25136172/e6e492f7-daeb-4327-be2b-fe333aa717c6)
+<br>
+![image](https://github.com/dydgjs200/TeamProj_nodejs/assets/25136172/9a607410-d61b-4305-89e0-69a0b3362ace)
+![image](https://github.com/dydgjs200/TeamProj_nodejs/assets/25136172/866dde54-560b-48f0-9842-dd9d51bea8ef)
+
+<br>
+
+
