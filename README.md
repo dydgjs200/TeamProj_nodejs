@@ -1,13 +1,15 @@
 # 1. 프로젝트 명 : 40 plus 
+<br>
  - 정의 : 40대 이상을 위한 정보 및 디지털 가이드
  - 개발기간 : 2023.12.14 ~ 2023.12.30
- - 인원 : 5명 (프론트엔드 3, 백엔드 2)
+ - 인원 : 5명 (Frontend 3, backend 2)
  - 배포 주소 : 
 
 <br>
 <br>
 
 # 2. 프로젝트 진행 동기
+<br>
 
 <ul>
   <li>다양한 디지털 기기의 등장으로 인한 사용의 어려움</li>
@@ -19,4 +21,10 @@
 <br>
 
 # 3. 기술 스택
-
+<br>
+- Frontend
+<div align=center>
+ <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
