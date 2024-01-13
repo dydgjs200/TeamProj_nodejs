@@ -1,4 +1,7 @@
 # 1. 프로젝트 명 : 40 plus 
+
+![logo2](https://github.com/dydgjs200/TeamProj_nodejs/assets/25136172/68335e3e-1548-4f81-9d90-4a173ec295b8)
+
 <br>
  - 정의 : 40대 이상을 위한 정보 및 디지털 가이드 <br>
  - 개발기간 : 2023.12.14 ~ 2023.12.30 <br>
